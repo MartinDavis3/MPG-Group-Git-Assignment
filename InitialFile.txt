@@ -7,3 +7,6 @@ This edit made on Master branch.
 Edit made on MartinsTask branch.
 Merge created a conflict: Resolved by accepting both changes.
 
+Gafar - make a merge conflict by editing the line below:
+This is what Martin put on this line.
+
