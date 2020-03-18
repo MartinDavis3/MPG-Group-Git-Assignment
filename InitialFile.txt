@@ -2,7 +2,7 @@ This is a file initially added to the master branch of the new repo by Martin Da
 Change made by Martin on MartinsTask branch.
 This is a file initially added to the master branch of the new repo by Poupak Gilani.
 hello all
-
+Martin wrote this in MartinConflictTask branch.
 Change made by Martin on MartinsTask branch.
 Added some text based on Martin's text to the file under Poupak name.
 
