@@ -1,0 +1,12 @@
+This is a file initially added to the master branch of the new repo by Martin Davis.
+This is a file initially added to the master branch of the new repo by Poupak Gilani.
+
+Change made by Martin on MartinsTask branch.
+Added some text based on Martin's text to the file under Poupak name.
+
+Creating a merge conflict:
+I am going to create a merge conflict on the line below by editing it differently on a branch and the master branch
+This edit made on Master branch.
+Edit made on MartinsTask branch.
+Merge created a conflict: Resolved by accepting both changes.
+
