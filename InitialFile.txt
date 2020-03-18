@@ -4,3 +4,5 @@ Change made by Martin on MartinsTask branch.
 Creating a merge conflict:
 I am going to create a mere conflict on the line below by editing it differently on a branch and the master branch
 This edit made on Master branch.
+Edit made on MartinsTask branch.
+ 
