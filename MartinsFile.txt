@@ -1,2 +1,6 @@
 This is the file that Martin added.
+<<<<<<< HEAD
 This is the file that Gafar added. - actually the edit Gafar made to my file - Martin
+=======
+This is the file that Poupak added.
+>>>>>>> March18
